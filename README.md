@@ -1,2 +1,2 @@
-# data-science-toolbox
-First test repo for Coursera course
+# datasciencecoursera
+First test repo for Coursera data science specialization
